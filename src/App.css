@@ -1,0 +1,45 @@
+.App {
+    text-align: center;
+    overflow: hidden;
+}
+
+.App-logo {
+    height: 40vmin;
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #09d3ac;
+}
+
+.wrap {
+    width: 60%;
+    background-color: #282c34;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 0;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.wrap-content {
+    margin-left: -20px;
+}
+.wrap .card {
+    display: inline-block;
+    background-color: #09d3ac;
+    width: 230px;
+    height: 140px;
+    margin: 20px 0 0 20px;
+}
