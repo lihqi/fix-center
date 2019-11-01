@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fix-center/build/static/css/main.bbec7586.chunk.css",
+    "main.js": "/fix-center/build/static/js/main.b13724af.chunk.js",
+    "main.js.map": "/fix-center/build/static/js/main.b13724af.chunk.js.map",
+    "runtime-main.js": "/fix-center/build/static/js/runtime-main.0bdf3e3a.js",
+    "runtime-main.js.map": "/fix-center/build/static/js/runtime-main.0bdf3e3a.js.map",
+    "static/js/2.2ec6d98f.chunk.js": "/fix-center/build/static/js/2.2ec6d98f.chunk.js",
+    "static/js/2.2ec6d98f.chunk.js.map": "/fix-center/build/static/js/2.2ec6d98f.chunk.js.map",
+    "index.html": "/fix-center/build/index.html",
+    "precache-manifest.fefbf8444bbce0037f90ad32b3809028.js": "/fix-center/build/precache-manifest.fefbf8444bbce0037f90ad32b3809028.js",
+    "service-worker.js": "/fix-center/build/service-worker.js",
+    "static/css/main.bbec7586.chunk.css.map": "/fix-center/build/static/css/main.bbec7586.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bdf3e3a.js",
+    "static/js/2.2ec6d98f.chunk.js",
+    "static/css/main.bbec7586.chunk.css",
+    "static/js/main.b13724af.chunk.js"
+  ]
+}
